@@ -1,2 +1,5 @@
 # CPME255-CyberSecurity
-run main.py 
+
+pip install -r requirements.txt
+
+Then explore: project.ipynb!
